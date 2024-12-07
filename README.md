@@ -18,7 +18,7 @@ Avant de commencer, assurez-vous que **Rust** et **Cargo** sont installés sur v
 ### Cloner le dépôt
 
 ```bash
-git clone https://github.com/VotreNomUtilisateur/password_generator.git
+git clone https://github.com/has1elb/password_generator.git
 cd password_generator
 ```
 
